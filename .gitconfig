@@ -1,0 +1,17 @@
+[user]
+  name = Corb3t
+  email = me@corbet.app
+[color]
+  ui = true
+[push]
+	default = current
+  followTags = true
+[help]
+  autocorrect = 1
+[status]
+  showUntrackedFiles = all
+[core]
+	fileMode = false
+	editor = code --wait
+[pull]
+	rebase = false
