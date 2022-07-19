@@ -5,8 +5,8 @@ This is my keyboard. There are many like it, but this one is mine. My keyboard i
 - [Applications](#applications)
 - [Search bars](#search-bars)
   - [Alfred](#alfred)
-   - [Clipboard History](#alfred-clipboard)
-   - [Keyboard Snippets](#alfred-snippets)
+  - [Clipboard History](#alfred-clipboard)
+  - [Keyboard Snippets](#alfred-snippets)
   - [Raindrop](#alfred-raindrop)
  - [1password](#1password)
 - [Trackpad Gestures](#trackpad-gestures)
@@ -25,7 +25,7 @@ I got sick of keeping track of all the custom keyboard shortcuts and trackpad ge
 
 ## Search bars
 
-### Alfred - Mega Search bar
+### Alfred
 <kbd>⌘ Command</kbd> + <kbd>Space</kbd> 
 
 Like spotlight search, but better. Alfred has a long list of features.
