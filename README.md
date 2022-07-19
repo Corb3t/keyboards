@@ -1,11 +1,10 @@
-# keyboards
-This is my keyboard. There are many like it, but this one is mine. My keyboard is my best friend. It is my life. I must master it as I must master my life.
-
 <p align="center">
   <img width="268" height="396" src="https://imgs.xkcd.com/comics/borrow_your_laptop.png">
 </p>
 
-## Welcome
+## keyboards
+This is my keyboard. There are many like it, but this one is mine. My keyboard is my best friend. It is my life. I must master it as I must master my life.
+
 I got sick of keeping track of all the custom keyboard shortcuts and trackpad gestures that I've created, so I decided to create this guide to make setting this up a little easier down the road. If you think my keyboard shortcuts could be improved upon in some way, do not hesitate to contact me.
 
 - [Applications](#applications)
