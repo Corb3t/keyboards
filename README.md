@@ -30,7 +30,8 @@ I got sick of keeping track of all the custom keyboard shortcuts and trackpad ge
 ## macOS Spotlight
 [![Image of macOS Spotlight](https://i.postimg.cc/GmFP1mwG/Clean-Shot-2022-07-19-at-17-44-25-2x.png)](https://postimg.cc/gx0LVd02)
 
-Have you ever [Spotlight](https://support.apple.com/guide/mac-help/spotlight-mchlp1008/mac)? It's the little magnifying glass in the corner. It's a really fast and convenient way to open apps and files. It's even built into [iOS](https://support.apple.com/en-us/HT201285)).
+[![Spotlight Menubar Icon](https://i.postimg.cc/P5sc4JQw/Clean-Shot-2022-07-19-at-17-57-02-2x.png)](https://postimg.cc/zV70DJMz)
+Have you ever used[Spotlight](https://support.apple.com/guide/mac-help/spotlight-mchlp1008/mac)? It's the little magnifying glass in the corner. It's a really fast and convenient way to open apps and files. It's even built into [iOS](https://support.apple.com/en-us/HT201285)).
 
 By default, you can quickly bring up Spotlight on your mac by pressing:
 
