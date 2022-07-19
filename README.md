@@ -7,11 +7,18 @@ This is my keyboard. There are many like it, but this one is mine. My keyboard i
 
 I got sick of keeping track of all the custom keyboard shortcuts and trackpad gestures that I've created, so I decided to create this guide to make setting this up a little easier down the road. If you think my keyboard shortcuts could be improved upon in some way, do not hesitate to contact me.
 
+- [macOS Spotlight](#macos-spotlight)
+- [Setup](#setup)
+- [Disable Spotlight Keyboard Shortcut](#Disable-Spotlight-Keyboard-Shortcut)
 - [Applications](#applications)
 - [Searchbars](#searchbars)
   - [Alfred](#alfred)
   - [Clipboard History](#clipboard-history)
-  - [Keyboard Snippets](#keyboard-snippets)
+  - [Keyboard Snippets / Text Replacements](#keyboard-snippets-/-text-replacements)
+    - [macOS/iOS Text Replacement](#macos/iios-text-replacement)
+      - [macOS Text Replacement Setup](#macos-text-replacement-setup)
+      - [Alfred Keyboard Snippets](#alfred-keyboard-snippets)
+      - [Alfred Keyboard Snippets Setup](#alfred-keyboard-snippets-setup)
   - [Raindrop](#raindrop)
   - [1password](#1password)
 - [Trackpad Gestures](#trackpad-gestures)
@@ -20,10 +27,33 @@ I got sick of keeping track of all the custom keyboard shortcuts and trackpad ge
 - [Hire Me](#hire-me)
 - [Special Thanks](#special-thanks)
 
+## macOS Spotlight
+[![Image of macOS Spotlight](https://i.postimg.cc/GmFP1mwG/Clean-Shot-2022-07-19-at-17-44-25-2x.png)](https://postimg.cc/gx0LVd02)
+
+Have you ever [Spotlight](https://support.apple.com/guide/mac-help/spotlight-mchlp1008/mac)? It's the little magnifying glass in the corner. It's a really fast and convenient way to open apps and files. It's even built into [iOS](https://support.apple.com/en-us/HT201285)).
+
+By default, you can quickly bring up Spotlight on your mac by pressing:
+
+<kbd>⌘ Command</kbd> + <kbd>Space</kbd> 
+
+In my opinion, using a search bar is the fasted way to navigate around a computer system, including desktop and mobile devices. Instead of navigating through folders manually, searching is often the fastest - how many times have you used Google to navigate to a website you knew the address to? Search will always be faster!
+
+## Setup
+If you're willing to download some extra applications, we can create custom keyboard shortcuts that give you access to all sorts of things - a clipboard manager, application launcher, password manager, and more. While Spotlight is really powerful, there are some better tools out there.
+
+### Disable Spotlight Keyboard Shortcut
+Fortunately for us, Alfred provides us with added search bar functionality, so we will replacing Spotlight's keyboard shortcut with Alfred. To do so, you will need to go to:
+
+```
+System Settings > Siri & Spotlight > Keyboard Shortcut > Set to "Off"
+```
+
+[![gif of turning off spotlight's keyboard shortcut](https://i.postimg.cc/VvzjZ9TT/Clean-Shot-2022-07-19-at-16-59-02.gif)](https://postimg.cc/mz6zt9TN) 
+
 ## Applications
 * [BetterTouchTool](https://folivora.ai/) - The must-have application for setting up custom keyboard shortcuts and trackpad gestures.
-* [Alfred 5](https://www.alfredapp.com/) - Save countless hours by using hotkeys, keywords and customizing how you want to search your Mac and activity history.
-* [Karabiner Elements](https://karabiner-elements.pqrs.org/) - A powerful keyboard customizer, used to remap "Capslock" to "Hyper + Escape" (see below)
+* [Alfred 5](https://www.alfredapp.com/) - Save countless hours by using hotkeys, keywords and customizing how you want to search your Mac and activity history. Replaces macOS Spotlight.
+* [Karabiner Elements](https://karabiner-elements.pqrs.org/) - Optional. A powerful keyboard customizer, used to remap "Capslock" to "Hyper + Escape" (see below)
 
 ## Searchbars
 
@@ -45,15 +75,31 @@ I use the clipboard history to easily copy and paste images and text anywhere.
 #### Alfred Clipboard History Setup
 [![Alfred's Clipboard History Setup Screen](https://i.postimg.cc/8CzS15c9/Clean-Shot-2022-07-19-at-13-58-43-2x.png)](https://postimg.cc/CRXt7wjs)
 
-### Keyboard Snippets
+### Keyboard Snippets / Text Replacements
+Keyboard snippets, or text replacements allow a user to quickly auto-fill information with a few simple keystrokes. This functionality is built natively into macOS and [iOS](https://support.apple.com/guide/iphone/use-text-replacements-iph6d01d862/ios), but [Alfred](#alfed) offers more powerful options.
+
+#### macOS/iOS Text Replacement
+macOS offers it's own "Text Replacements" natively within macOS, which are great because they sync to your iOS devices. They can be setup by navigating to:
+
+```
+System Settings > Keyboard > Text Input > Text Replacement
+```
+
+##### macOS Text Replacement Setup
+[![Gif of my text replacements within macOS](https://i.postimg.cc/dt0XNGGg/Clean-Shot-2022-07-19-at-17-02-13.gif)](https://postimg.cc/qg9jzhbG)
+
+I personally use both types of keyboard snippets/replacements - native due to the iOS syncing, and Alfred because I like to query and review them from Alfred's search bar (Command + Spacebar).
+
+#### Alfred Keyboard Snippets
 <kbd>⌥ Option</kbd> + <kbd>S</kbd>
 
 Great for quickly filling in information you regularly use like e-mails, dates, and links.
 
 [![Alfred's Keyboard Snippet Searchbar](https://i.postimg.cc/65cbBhZ6/Clean-Shot-2022-07-19-at-14-02-46-2x.png)](https://postimg.cc/BX8BgHNR)
 
-#### Alfred Snippets Setup
+#### Alfred Keyboard Snippets Setup
 [![Alfred's Keyboard Snippets Setup Screen](https://i.postimg.cc/vZwkmmqX/Clean-Shot-2022-07-19-at-13-58-49-2x.png)](https://postimg.cc/TpQC7TXW)
+
 
 ### Raindrop
 <kbd>⌃ Control</kbd> + <kbd>Space</kbd>
