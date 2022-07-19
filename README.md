@@ -3,13 +3,14 @@ This is my keyboard. There are many like it, but this one is mine. My keyboard i
 
 - [Welcome](#welcome)
 - [Applications](#applications)
-- [Search bars](#search-bars)
+- [Searchbars](#searchbars)
   - [Alfred](#alfred)
   - [Clipboard History](#clipboard-history)
   - [Keyboard Snippets](#keyboard-snippets)
   - [Raindrop](#raindrop)
   - [1password](#1password)
 - [Trackpad Gestures](#trackpad-gestures)
+  - [Browser Gestures](#browser-gestures)
 - [Hire Me](#hire-me)
 - [Special Thanks](#special-thanks)
 
@@ -23,7 +24,7 @@ I got sick of keeping track of all the custom keyboard shortcuts and trackpad ge
 * [Alfred 5](https://www.alfredapp.com/) - Save countless hours by using hotkeys, keywords and customizing how you want to search your Mac and activity history.
 * [Karabiner Elements](https://karabiner-elements.pqrs.org/) - A powerful keyboard customizer, used to remap "Capslock" to "Hyper + Escape" (see below)
 
-## Search bars
+## Searchbars
 
 ### Alfred
 <kbd>⌘ Command</kbd> + <kbd>Space</kbd> 
@@ -67,16 +68,28 @@ My favorite password manager. The 1Password searchbar lets me quickly open and l
 
 [![1Password Searchbar](https://i.postimg.cc/13S7QjXj/Clean-Shot-2022-07-19-at-13-53-11-2x.png)](https://postimg.cc/Vd7W94jq)
 
-
-
-
-## Trackpad Gestures
+## Trackpad Gestures - BetterTouchTool
 For Trackpad gestures, I use [BetterTouchTool](https://folivora.ai/). BTT lets you create gestures and keyboard shortcuts on a global and per-app basis, allowing flexibility.
 
-### Safari / Firefox / Chrome / Edge
+### Browser Gestures
 When I am working in a web browser, the following trackpad gestures allow me to...
-* Three Finger Swipe Right - 
+
+* Three Finger Swipe Right - Navigate to right tab
+* Three Finger Swipe Left - Navigate to left tab
+* Three Finger Swipe Down - Close active tab
+* Three Finger Swipe Up - Open new tab
+
 [![BetterTouchTool's Trackpade Configuration Screen](https://i.postimg.cc/J4JxnV2Q/Clean-Shot-2022-07-19-at-14-25-24-2x.png)](https://postimg.cc/vcYfqjM1)
+
+### Finder Gestures
+I apply the same swiping gestures in Finder, the following trackpad gestures allow me to...
+
+* Three Finger Swipe Right - Navigate to right finder tab
+* Three Finger Swipe Left - Navigate to left finder tab
+* Three Finger Swipe Down - Close active finder tab
+* Three Finger Swipe Up - Open new finder tab
+
+[![Clean-Shot-2022-07-19-at-14-56-36.gif](https://i.postimg.cc/RCgMphQW/Clean-Shot-2022-07-19-at-14-56-36.gif)](https://postimg.cc/K4gSRZWb)
 
 ## Hire Me
 Do you think I would be a valuable asset to your software development team? I am currently open to employment - e-mail me at me@corbet.dev! 
