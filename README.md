@@ -74,25 +74,37 @@ My favorite password manager. The 1Password searchbar lets me quickly open and l
 For Trackpad gestures, I use [BetterTouchTool](https://folivora.ai/). BTT lets you create gestures and keyboard shortcuts on a global and per-app basis, allowing flexibility.
 
 ### Browser Gestures
+
 When I am working in a web browser, the following trackpad gestures allow me to...
 
-* Three Finger Swipe Right - Navigate to right tab
-* Three Finger Swipe Left - Navigate to left tab
-* Three Finger Swipe Down - Close active tab
-* Three Finger Swipe Up - Open new tab
+```
+Three Finger Swipe Right - Navigate to right tab
+Three Finger Swipe Left - Navigate to left tab
+Three Finger Swipe Down - Close active tab
+Three Finger Swipe Up - Open new tab
+```
+
+<p align="center">
+  <img src="https://i.postimg.cc/FzvX754k/Clean-Shot-2022-07-19-at-15-08-57.gif">
+</p>
+
+#### BetterTouchTool's Trackpad Configuration
 
 [![BetterTouchTool's Trackpade Configuration Screen](https://i.postimg.cc/J4JxnV2Q/Clean-Shot-2022-07-19-at-14-25-24-2x.png)](https://postimg.cc/vcYfqjM1)
 
 ### Finder Gestures
 I apply the same swiping gestures in Finder, the following trackpad gestures allow me to...
 
-[![Clean-Shot-2022-07-19-at-14-56-36.gif](https://i.postimg.cc/RCgMphQW/Clean-Shot-2022-07-19-at-14-56-36.gif)](https://postimg.cc/K4gSRZWb)
+```
+Three Finger Swipe Right - Navigate to right finder tab
+Three Finger Swipe Left - Navigate to left finder tab
+Three Finger Swipe Down - Close active finder tab
+Three Finger Swipe Up - Open new finder tab
+```
 
-* Three Finger Swipe Right - Navigate to right finder tab
-* Three Finger Swipe Left - Navigate to left finder tab
-* Three Finger Swipe Down - Close active finder tab
-* Three Finger Swipe Up - Open new finder tab
-
+<p align="center">
+<img src="https://i.postimg.cc/RCgMphQW/Clean-Shot-2022-07-19-at-14-56-36.gif">
+</p>
 
 
 ## Hire Me
