@@ -11,6 +11,7 @@ This is my keyboard. There are many like it, but this one is mine. My keyboard i
   - [1password](#1password)
 - [Trackpad Gestures](#trackpad-gestures)
   - [Browser Gestures](#browser-gestures)
+  - [Finder Gestures](#finder-gestures)
 - [Hire Me](#hire-me)
 - [Special Thanks](#special-thanks)
 
@@ -68,7 +69,7 @@ My favorite password manager. The 1Password searchbar lets me quickly open and l
 
 [![1Password Searchbar](https://i.postimg.cc/13S7QjXj/Clean-Shot-2022-07-19-at-13-53-11-2x.png)](https://postimg.cc/Vd7W94jq)
 
-## Trackpad Gestures - BetterTouchTool
+## Trackpad Gestures
 For Trackpad gestures, I use [BetterTouchTool](https://folivora.ai/). BTT lets you create gestures and keyboard shortcuts on a global and per-app basis, allowing flexibility.
 
 ### Browser Gestures
