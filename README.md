@@ -1,7 +1,13 @@
 # keyboards
 This is my keyboard. There are many like it, but this one is mine. My keyboard is my best friend. It is my life. I must master it as I must master my life.
 
-- [Welcome](#welcome)
+<p align="center">
+  <img width="268" height="396" src="https://imgs.xkcd.com/comics/borrow_your_laptop.png">
+</p>
+
+## Welcome
+I got sick of keeping track of all the custom keyboard shortcuts and trackpad gestures that I've created, so I decided to create this guide to make setting this up a little easier down the road. If you think my keyboard shortcuts could be improved upon in some way, do not hesitate to contact me.
+
 - [Applications](#applications)
 - [Searchbars](#searchbars)
   - [Alfred](#alfred)
@@ -14,11 +20,6 @@ This is my keyboard. There are many like it, but this one is mine. My keyboard i
   - [Finder Gestures](#finder-gestures)
 - [Hire Me](#hire-me)
 - [Special Thanks](#special-thanks)
-
-## Welcome
-I got sick of keeping track of all the custom keyboard shortcuts and trackpad gestures that I've created, so I decided to create this guide to make setting this up a little easier down the road. If you think my keyboard shortcuts could be improved upon in some way, do not hesitate to contact me.
-
-[![This tends to happen with all of my computers.](https://imgs.xkcd.com/comics/borrow_your_laptop.png)](https://postimg.cc/Cn0j10hH) 
 
 ## Applications
 * [BetterTouchTool](https://folivora.ai/) - The must-have application for setting up custom keyboard shortcuts and trackpad gestures.
@@ -85,12 +86,14 @@ When I am working in a web browser, the following trackpad gestures allow me to.
 ### Finder Gestures
 I apply the same swiping gestures in Finder, the following trackpad gestures allow me to...
 
+[![Clean-Shot-2022-07-19-at-14-56-36.gif](https://i.postimg.cc/RCgMphQW/Clean-Shot-2022-07-19-at-14-56-36.gif)](https://postimg.cc/K4gSRZWb)
+
 * Three Finger Swipe Right - Navigate to right finder tab
 * Three Finger Swipe Left - Navigate to left finder tab
 * Three Finger Swipe Down - Close active finder tab
 * Three Finger Swipe Up - Open new finder tab
 
-[![Clean-Shot-2022-07-19-at-14-56-36.gif](https://i.postimg.cc/RCgMphQW/Clean-Shot-2022-07-19-at-14-56-36.gif)](https://postimg.cc/K4gSRZWb)
+
 
 ## Hire Me
 Do you think I would be a valuable asset to your software development team? I am currently open to employment - e-mail me at me@corbet.dev! 
