@@ -23,7 +23,7 @@ Table of Contents
       - [Alfred Keyboard Snippets Setup](#alfred-keyboard-snippets-setup)
     - [Raindrop](#raindrop)
   - [Other Applications](#other-applications)
-    - [1password](#1password)
+    - [1Password](#1password)
       - [1Password Keyboard Shortcut Setup](#1password-keyboard-shortcut-setup)
     - [Karabiner](#karabiner)
       - [Karabiner Setup](#karabiner-setup)
@@ -127,9 +127,7 @@ Great for quickly filling in information you regularly use like e-mails, dates, 
 [![Alfred's Keyboard Snippets Setup Screen](https://i.postimg.cc/vZwkmmqX/Clean-Shot-2022-07-19-at-13-58-49-2x.png)](https://postimg.cc/TpQC7TXW)
 
 ### Raindrop
-<kbd>⌃ Control</kbd> + <kbd>Space</kbd>
-
-My favorite bookmark manager. I use the Raindrop searchbar to quickly open links to my Github projects, work-related Sharepoint pages, Google Drive folders, and more. 
+My favorite bookmark manager. I use the Raindrop searchbar to quickly open links to my Github projects, work-related Sharepoint pages, Google Drive folders, and more. Raindrop is an [Alfred Workflow](https://github.com/westerlind/alfred-raindrop-search/releases).
 
 [![Raindrop.io Searchbar](https://i.postimg.cc/k4WtqfBT/Clean-Shot-2022-07-19-at-13-55-17-2x.png)](https://postimg.cc/BLQvC55F)
 
@@ -159,6 +157,7 @@ You can automatically import my Karabiner profile by placing /.config/karabiner 
 
 ### iTerm2
 * [iTerm2](https://iterm2.com/) - Great Terminal alternative with extra features like split pane. I have iTerm2 automatically appear when I type:
+
 <kbd>⌥ Option </kbd> + <kbd>⏎ Esc</kbd>
 
 [![iTerm is pretty](https://i.postimg.cc/ncJvZSBN/Clean-Shot-2022-07-19-at-21-18-10-2x.png)](https://postimg.cc/K40KDN95)
@@ -172,6 +171,7 @@ You can automatically import my Karabiner profile by placing /.config/karabiner 
 Fantastical even has an [iOS](https://apps.apple.com/us/app/fantastical-calendar/id718043190) version with great customizable homescreen widgets.
 
 I have Fantastical calendar entry automatically appear when I type:
+
 > <kbd>⌥ Option </kbd> + <kbd>⏎ Esc</kbd>
 
 
