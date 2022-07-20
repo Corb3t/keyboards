@@ -20,7 +20,7 @@ Table of Contents
   - [Alfred](#alfred)
     - [Clipboard History](#clipboard-history)
     - [Alfred Keyboard Snippets](#alfred-keyboard-snippets)
-    - [Alfred Keyboard Snippets Setup](#alfred-keyboard-snippets-setup)
+      - [Alfred Keyboard Snippets Setup](#alfred-keyboard-snippets-setup)
     - [Raindrop](#raindrop)
   - [Other Applications](#other-applications)
     - [1password](#1password)
@@ -149,14 +149,17 @@ The 1Password search bar is displayed when I press <kbd>⌥ Option</kbd> + <kbd>
 [![Clean-Shot-2022-07-19-at-21-53-09-2x.png](https://i.postimg.cc/44qWtRqM/Clean-Shot-2022-07-19-at-21-53-09-2x.png)](https://postimg.cc/vD77FkQL)
 
 ### Karabiner
-[Karabiner Elements](https://karabiner-elements.pqrs.org/) - Optional. A *free* powerful keyboard customizer, used to remap "Capslock" to "Hyper" (CMD + OPTION + CTRL) + ESC (When pressed alone). Karabiner provides more complex keyboard shortcuts - my capslock functions as <kbd>⌘ Command</kbd> with any other key, or <kbd>Esc</kbd> when pressed on it's own. 
+[Karabiner Elements](https://karabiner-elements.pqrs.org/) - Optional. A *free* powerful keyboard customizer, used to remap "Capslock" to:
+
+<kbd> Hyper (⌃ CTRL + ⌥ Option + ⌘ Command)</kbd> with any other key, or <kbd>Esc</kbd> when pressed alone. 
 
 #### Karabiner Setup
 [![Karabiner Demo](https://i.postimg.cc/bvJfFjgP/Clean-Shot-2022-07-19-at-22-21-01.gif)](https://postimg.cc/nX6WCgNS)
 You can automatically import my Karabiner profile by placing /.config/karabiner in your ~/ path.
 
 ### iTerm2
-* [iTerm2](https://iterm2.com/) - Great Terminal alternative with extra features like split pane. I have iTerm2 automatically appear when I type <kbd>⌥ Option </kbd> + <kbd>⏎ Esc</kbd>
+* [iTerm2](https://iterm2.com/) - Great Terminal alternative with extra features like split pane. I have iTerm2 automatically appear when I type:
+<kbd>⌥ Option </kbd> + <kbd>⏎ Esc</kbd>
 
 [![iTerm is pretty](https://i.postimg.cc/ncJvZSBN/Clean-Shot-2022-07-19-at-21-18-10-2x.png)](https://postimg.cc/K40KDN95)
 
@@ -168,7 +171,8 @@ You can automatically import my Karabiner profile by placing /.config/karabiner 
 
 Fantastical even has an [iOS](https://apps.apple.com/us/app/fantastical-calendar/id718043190) version with great customizable homescreen widgets.
 
-I have Fantastical calendar entry automatically appear when I type <kbd>⌥ Option </kbd> + <kbd>⏎ Esc</kbd>
+I have Fantastical calendar entry automatically appear when I type:
+> <kbd>⌥ Option </kbd> + <kbd>⏎ Esc</kbd>
 
 
 ## Trackpad Gestures
