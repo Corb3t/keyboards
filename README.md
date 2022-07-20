@@ -13,7 +13,7 @@ Table of Contents
 - [Setup](#setup)
   - [Disable Spotlight Keyboard Shortcut](#Disable-Spotlight-Keyboard-Shortcut)
   - [Capslock is a Waste](#capslock-is-a-waste)
-- [Keyboard Snippets / Text Replacements](#keyboard-snippets-/-text-replacements)
+- [Keyboard Snippets / Text Replacements](#keyboard-snippets--text-replacements)
 - [macOS/iOS Text Replacement](#macos/iios-text-replacement)
   - [macOS Text Replacement Setup](#macos-text-replacement-setup)
 - [Search Bars](#search-bars)
