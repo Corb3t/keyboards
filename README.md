@@ -135,18 +135,28 @@ Rectangle also offers similar functionality to Windows by allowing the user to "
 
 [![Gif of Rectangle Windows Snapping](https://i.postimg.cc/ZnXgsdsk/Clean-Shot-2022-07-21-at-14-18-09.gif)](https://postimg.cc/7JMmffyX)
 
+#### My Rectangle Config
+I've included my Rectangle config with my keyboard shortcut preferences and snapping settings. It can be imported in:
+
+> Rectangle > Preferences > Settings > Import Config
+
 ## Search Bars
 
-### Alfred
+### [Alfred](https://www.alfredapp.com/)
 [![Alfred search bar preview](https://i.postimg.cc/Jz460dVY/Clean-Shot-2022-07-19-at-14-18-42-2x.png)](https://postimg.cc/qzSXZw72)
 
-Like spotlight search, but better. Alfred has a long list of features. Alfred is activated by pressing <kbd>⌘ Command</kbd> + <kbd>Space</kbd> 
+Like spotlight search, but better. Alfred has a long list of features. Alfred is activated by pressing: 
+
+> <kbd>⌘ Command</kbd> + <kbd>Space</kbd> 
 
 ### Clipboard History
+I use the clipboard history to easily copy and paste images and text anywhere. This is great for putting together professional documents. Another really great feature is Alfred's Clipboard History merging, which lets users copy multiple times in a row.
 
-<kbd>⌥ Option</kbd> + <kbd>X</kbd>
+Alfred's clipboard history can be activated by pressing:
 
-I use the clipboard history to easily copy and paste images and text anywhere.
+> <kbd>⌥ Option</kbd> + <kbd>X</kbd>
+
+
 
 [![Alfred's Keyboard History Searchbar](https://i.postimg.cc/hvrsPSfZ/Clean-Shot-2022-07-19-at-14-01-59-2x.png)](https://postimg.cc/H8rX610b)
 
@@ -154,17 +164,20 @@ I use the clipboard history to easily copy and paste images and text anywhere.
 [![Alfred's Clipboard History Setup Screen](https://i.postimg.cc/8CzS15c9/Clean-Shot-2022-07-19-at-13-58-43-2x.png)](https://postimg.cc/CRXt7wjs)
 
 ### Alfred Keyboard Snippets
-<kbd> ⌥ Option </kbd> + <kbd>S</kbd>
+Great for quickly filling in information you regularly use like e-mails, dates, and links. Alfred's snippets are a little better than macOS/iOS's because you can open the search bar and preview them with:
 
-Great for quickly filling in information you regularly use like e-mails, dates, and links.
+> <kbd> ⌥ Option </kbd> + <kbd>S</kbd>
+
 
 [![Alfred's Keyboard Snippet Searchbar](https://i.postimg.cc/65cbBhZ6/Clean-Shot-2022-07-19-at-14-02-46-2x.png)](https://postimg.cc/BX8BgHNR)
 
 #### Alfred Keyboard Snippets Setup
 [![Alfred's Keyboard Snippets Setup Screen](https://i.postimg.cc/vZwkmmqX/Clean-Shot-2022-07-19-at-13-58-49-2x.png)](https://postimg.cc/TpQC7TXW)
 
-### Raindrop
-My favorite bookmark manager. I use the Raindrop searchbar to quickly open links to my Github projects, work-related Sharepoint pages, Google Drive folders, and more. Raindrop is an [Alfred Workflow](https://github.com/westerlind/alfred-raindrop-search/releases).
+### [Raindrop](https://raindrop.io/)
+[![My Raindrop Bookmarks](https://i.postimg.cc/SxYHNN3K/Clean-Shot-2022-07-21-at-18-18-38-2x.png)](https://postimg.cc/Xr3ss3VM)
+
+My favorite bookmark manager. I use the [Raindrop](https://raindrop.io/) search-bar to quickly open links to my Github projects, work-related Sharepoint pages, Google Drive folders, and more. Raindrop is an [Alfred Workflow](https://github.com/westerlind/alfred-raindrop-search/releases).
 
 [![Raindrop.io Searchbar](https://i.postimg.cc/k4WtqfBT/Clean-Shot-2022-07-19-at-13-55-17-2x.png)](https://postimg.cc/BLQvC55F)
 
