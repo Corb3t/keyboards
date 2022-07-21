@@ -16,6 +16,10 @@ Table of Contents
 - [Keyboard Snippets / Text Replacements](#keyboard-snippets--text-replacements)
 - [macOS/iOS Text Replacement](#macos/iios-text-replacement)
   - [macOS Text Replacement Setup](#macos-text-replacement-setup)
+- [Windows Management](#windows-management)
+  - [Rectangle App](#rectangle-app)
+    - [Rectangle Keyboard Shortcuts](#rectangle-keyboard-shortcuts)
+    - [Rectangle Windows Snapping](#rectangle-windows-snapping)
 - [Search Bars](#search-bars)
   - [Alfred](#alfred)
     - [Clipboard History](#clipboard-history)
@@ -30,7 +34,9 @@ Table of Contents
     - [iTerm2](#iterm2)
       - [iTerm2 Keyboard Shortcut Setup](#iterm2-keyboard-shortcut-setup)
     - [Fantastical](#fantastical)
-      - [Fantastical Keyboard Shortcut Setup](#fantastical-keyboardd-shortcut-setup)
+      - [Fantastical Keyboard Shortcut Setup](#fantastical-keyboard-shortcut-setup)
+    - [Cleanshot](#cleanshot)
+      - [Cleanshot Keyboard Shortcut Setup](#cleanshot-keyboard-shortcut-setup)
 - [Trackpad Gestures](#trackpad-gestures)
   - [Browser Gestures](#browser-gestures)
   - [Finder Gestures](#finder-gestures)
@@ -99,6 +105,36 @@ System Settings > Keyboard > Text Input > Text Replacement
 
 I personally use both types of keyboard snippets/replacements - native due to the iOS syncing, and Alfred because I like to query and review them from Alfred's search bar (Command + Spacebar).
 
+## Windows Management
+If there's one thing Microsoft Windows gets right out of the box, it's [Windows Snapping](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/apply-snap-layout-men). Unfortunately macOS's windows snapping isn't as good, which is why I recommend downloading [Rectangle](https://rectangleapp.com/).
+
+### Rectangle App
+Rectangle offers a wide range of customizable Windows snapping options, but I largely use it two ways:
+
+* To quickly snap windows to the top/left/bottom/right using <kbd>⌘ Right Command</kbd> + <kbd>▲ ▼ ◀ ▶ Arrow </kbd> keys (see below).
+* To quickly snap windows using my trackpad by clicking and dragging a window
+* To quickly move windows from one display to the next (when using external displays)
+
+#### Rectangle Keyboard Shortcuts
+[![Gif of Rectangle keyboard shortcuts being used.](https://i.postimg.cc/gkBHvpXh/Clean-Shot-2022-07-21-at-14-00-37.gif)](https://postimg.cc/zVKhr9kD)
+
+Since I try and keep my hands on the keyboard at all times to improve productivity, I have mapped the following shortcuts to my keyboard:
+
+> Snap Window to Top Half: <kbd>⌘ Command</kbd> + <kbd>▲ Up Arrow</kbd>
+>
+> Snap Window to Bottom Half: <kbd>⌘ Command</kbd> + <kbd>▼ Down Arrow</kbd>
+>
+> Snap Window to Left Side: <kbd>⌘ Command</kbd> + <kbd>◀ Left Arrow</kbd>
+>
+> Snap Window to Right Side: <kbd>⌘ Command</kbd> + <kbd>▶ Right Arrow</kbd>
+
+[![Rectangles Window Snapping Keyboard Shortcut Settings](https://i.postimg.cc/g0HBv0CD/Clean-Shot-2022-07-21-at-14-43-30-2x.png)](https://postimg.cc/DWmgh7yJ)
+
+#### Rectangle Windows Snapping
+Rectangle also offers similar functionality to Windows by allowing the user to "throw" or "snap" a window. This is on by default.
+
+[![Gif of Rectangle Windows Snapping](https://i.postimg.cc/ZnXgsdsk/Clean-Shot-2022-07-21-at-14-18-09.gif)](https://postimg.cc/7JMmffyX)
+
 ## Search Bars
 
 ### Alfred
@@ -107,6 +143,7 @@ I personally use both types of keyboard snippets/replacements - native due to th
 Like spotlight search, but better. Alfred has a long list of features. Alfred is activated by pressing <kbd>⌘ Command</kbd> + <kbd>Space</kbd> 
 
 ### Clipboard History
+
 <kbd>⌥ Option</kbd> + <kbd>X</kbd>
 
 I use the clipboard history to easily copy and paste images and text anywhere.
@@ -174,6 +211,14 @@ I have Fantastical calendar entry automatically appear when I type:
 
 > <kbd>⌥ Option </kbd> + <kbd>⏎ Esc</kbd>
 
+### Cleanshot
+[![cleanshot.png](https://i.postimg.cc/gjLq44nd/cleanshot.png)](https://postimg.cc/QKsTdQQn)
+[CleanShot X](https://cleanshot.com/) is a great screenshot capturing app - I used it to create this guide! CleanShot X lets you capture, edit, and annotate sceenshots and record videos & GIFs. My screenshots are captured with:
+
+<kbd> ⇪ Capslock/Hyper (AKA ⌃ CTRL + ⌥ Option + ⌘ Command)</kbd> + <kbd> 1 </kbd>
+
+#### Cleanshot Keyboard Shortcut Setup
+[![CleanShot Keyboard Shortcuts Setup Image](https://i.postimg.cc/qR3z5FXm/Clean-Shot-2022-07-19-at-23-14-27-2x.png)](https://postimg.cc/ZBJb9VQ3)
 
 ## Trackpad Gestures
 For Trackpad gestures, I use [BetterTouchTool](https://folivora.ai/). BTT lets you create gestures and keyboard shortcuts on a global and per-app basis, allowing flexibility.
